@@ -21,7 +21,7 @@
 <body>
 
 <div id="image">
-    <img src="img/bg/fire.gif">
+    <img src="https://i.imgur.com/KpZ9aZF.mp4">
 </div>
 
 <div class="ctr">
