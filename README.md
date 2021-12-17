@@ -5,13 +5,11 @@ I made rxzvd.xyz as a Portfolio/About Me for Myself. I decided to also put The S
 # **Installation**
 
 ```
-
 -> git clone https://github.com/rxzvd/rxzvd.xyz
 -> Open Visual Studio Code/Any editor of Your Choice
 -> Edit code to Your Liking
 -> make sure my gun is in there
 -> done???
-
 ```
 
 # **Credits**
