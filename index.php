@@ -42,8 +42,8 @@
 
 <?php
 
-		$key = 'd137b48e2d94326febc0ec4e85071abd';
-		$user = 'rxzvd';
+		$key = '';
+		$user = '';
 
 		$string = file_get_contents('http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user='.$user.'&api_key='.$key.'&format=json');
 		$json = json_decode($string, true);
